@@ -13,6 +13,7 @@ same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, 
 ## NovaFlare Credits:
 * Beihu - Programmer
 * TieGuo - Programmer
+* ErosTheAwsome - Programmer And Coder of Source code
 
 ## Mobile Credits:
 * Lily - Head Porter
